@@ -1,0 +1,79 @@
+{
+  "conta": {
+    "saldo": 900
+  },
+  "transacoes": [
+    {
+      "valor": 10,
+      "transacao": "saque",
+      "data": "10/08/2020",
+      "id": 1
+    },
+    {
+      "transacao": "deposito",
+      "valor": "20",
+      "data": "26/09/2020",
+      "id": 2
+    },
+    {
+      "transacao": "saque",
+      "valor": 0,
+      "data": "12/10/2020",
+      "id": 3
+    },
+    {
+      "transacao": "deposito",
+      "valor": "100",
+      "data": "12/10/2020",
+      "id": 4
+    },
+    {
+      "transacao": "saque",
+      "valor": "100",
+      "data": "12/10/2020",
+      "id": 5
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "12/10/2020",
+      "id": 6
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "12/10/2020",
+      "id": 7
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "12/10/2020",
+      "id": 8
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "12/10/2020",
+      "id": 9
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "12/10/2020",
+      "id": 10
+    },
+    {
+      "transacao": "saque",
+      "valor": 0,
+      "data": "14/10/2020",
+      "id": 11
+    },
+    {
+      "transacao": "saque",
+      "valor": "100",
+      "data": "14/10/2020",
+      "id": 12
+    }
+  ]
+}
